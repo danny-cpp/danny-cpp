@@ -5,8 +5,8 @@
 
 ## Things I worked on
 - Software development
+- Parallelization (CUDA, Pthread, OpenMP,...)
 - Machine Learning
-- Parallelization (CUDA, multithreading,...)
 - Learning and adopting new techs (Yeah that's a thing ;D)
 ## Need help with com. sci. projects?
 I open-source many of my projects throughout my university time. Check out the pinned projects if you need a starting point for your own. They cover topics above and more. Please cite if you wish to use them.
